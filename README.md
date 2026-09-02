@@ -1,4 +1,4 @@
-# Earth Observation DigitalTwins
+# Earth Observation Digital Twins
 
 This repository will contain a first draft of collaborative work on EO Digital Twins
 
