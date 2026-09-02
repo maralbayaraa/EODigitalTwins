@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" role="img" aria-label="EODigitalTwins logo">
-  <rect width="320" height="100" rx="16" fill="#0b2447"/>
-  <circle cx="52" cy="50" r="31" fill="#35a29f"/>
-  <path d="M25 50h54M52 19c-10 10-15 20-15 31s5 21 15 31M52 19c10 10 15 20 15 31s-5 21-15 31" fill="none" stroke="#fff" stroke-width="4"/>
-  <text x="96" y="59" fill="#fff" font-family="Arial, sans-serif" font-size="28" font-weight="700">EODigitalTwins</text>
-</svg>
