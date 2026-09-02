@@ -1,0 +1,14 @@
+[project]
+name = "eodigitaltwins-book"
+version = "0.1.0"
+description = "EODigitalTwins Jupyter Book"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "jupyter-book==1.0.4.post1",
+  "sphinxcontrib-mermaid==1.0.0",
+  "linkify-it-py==2.0.3",
+]
+
+[tool.jupyter-book]
+book = "WhitePaper"

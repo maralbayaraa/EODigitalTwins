@@ -1,0 +1,10 @@
+format: jb-book
+root: introduction
+chapters:
+  - file: digital-twins-overview
+  - file: architecture
+  - file: use-cases
+  - file: example-notebook
+  - file: implementation-roadmap
+  - file: conclusions
+  - file: glossary
