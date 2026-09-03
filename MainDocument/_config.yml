@@ -28,7 +28,7 @@ bibtex_bibfiles:
 
 repository:
   url: https://github.com/maralbayaraa/EODigitalTwins
-  path_to_book: Main_Document
+  path_to_book: MainDocument
   branch: main
 
 html:
