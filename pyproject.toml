@@ -11,4 +11,4 @@ dependencies = [
 ]
 
 [tool.jupyter-book]
-book = "WhitePaper"
+book = "Main_Document"
