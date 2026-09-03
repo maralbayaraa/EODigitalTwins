@@ -1,5 +1,5 @@
 format: jb-book
-root: introduction
+root: 01_introduction
 chapters:
   - file: 01_introduction
   - file: 02_EO4DT_definition
