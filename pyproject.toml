@@ -11,4 +11,4 @@ dependencies = [
 ]
 
 [tool.jupyter-book]
-book = "Main_Document"
+book = "MainDocument"
