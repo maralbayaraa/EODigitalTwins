@@ -1,10 +1,15 @@
 format: jb-book
 root: introduction
 chapters:
-  - file: digital-twins-overview
-  - file: architecture
-  - file: use-cases
-  - file: example-notebook
-  - file: implementation-roadmap
-  - file: conclusions
-  - file: glossary
+  - file: 01_introduction
+  - file: 02_EO4DT_definition
+  - file: 03_ceos_agencies_DT_initiatives
+  - file: 04_policy-use-case-methane
+  - file: 05_policy-use-case-InSAR
+  # - file: digital-twins-overview
+  # - file: architecture
+  # - file: use-cases
+  # - file: example-notebook
+  # - file: implementation-roadmap
+  # - file: conclusions
+  # - file: glossary
