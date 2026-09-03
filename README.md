@@ -4,7 +4,7 @@ This repository will contain a first draft of [CEOS WGISS Technology Exploration
 
 The formatted document is available as Jupyter Book Badge and is automatically updated at:
 
-`https://maralbayaraa.github.io/EODigitalTwins/`
+[https://maralbayaraa.github.io/EODigitalTwins/](https://maralbayaraa.github.io/EODigitalTwins/)
 
 
 ## Acknowledgements
