@@ -1,7 +1,7 @@
 format: jb-book
 root: 01_introduction
 chapters:
-  - file: 01_introduction
+  # - file: 01_introduction
   - file: 02_EO4DT_definition
   - file: 03_ceos_agencies_DT_initiatives
   - file: 04_policy-use-case-methane
