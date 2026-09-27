@@ -11,5 +11,6 @@ EO Digital Twins in development (in alphabetic order):
 - ICHEC : small scale lake DT 
 - NASA: Natural Hazards DT + more?
 - UK: PML’s Marine DT, ATI? And Cambridge’s construction DT. UK's EODH containing several elements of a DT 
-- Any others? 
+- Any others?
+- ...
 
